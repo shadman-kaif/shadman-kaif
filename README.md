@@ -1,7 +1,7 @@
 ## Hi, I'm Shadman 👋
 ### About Me ⤵️
-- Software Engineer at IBM, based in Markham, Ontario, Canada
-- Graduate of the University of Toronto with a degree in Electrical & Computer Engineering and a minor in Artificial Intelligence
+- <img src="ibm.png" width=25> Software Engineer at IBM, based in Markham, Ontario, Canada
+- <img src="uoft.png" width=17> Graduate of the University of Toronto with a degree in Electrical & Computer Engineering and a minor in Artificial Intelligence
 - 📫 How to reach me: [Email me](mailto:kaifshadman@gmail.com) or message me on [LinkedIn](https://www.linkedin.com/in/shadman-kaif/)
 
 <!--
