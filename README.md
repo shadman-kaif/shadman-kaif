@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi, I'm Shadman 👋
+### About Me ⤵️
+
+- 
+- 📫 How to reach me: message me on [LinkedIn](https://www.linkedin.com/in/shadman-kaif/)
 
 <!--
 **shadman-kaif/shadman-kaif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
